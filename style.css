@@ -15,8 +15,9 @@ padding-bottom: 30px;
 background-color: #f2e6d3;
 margin-left: 250px;
 margin-right: 200px;
-padding-left: 30px;
+padding-left: 20px;
 padding-right: 40px;
+cursor: pointer;
 }
 ul{
   background-color: #f2e6d3;
@@ -29,6 +30,7 @@ ul li{
 }
 .a{
   margin-right: 270px;
+  font-weight: bold;
 }
 
 .head{
@@ -109,8 +111,8 @@ p{
   text-align: center;
 }
 .z{
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
+  padding-left:5px;
+  text-align: left;
   padding-top: 5px;
   padding-bottom: 5px;
   font-size: 8px;
@@ -138,6 +140,7 @@ footer{
   padding-top: 20px;
 }
 input{
+  margin-right: 300px;
 margin-bottom: 10px;
 width: 375px;
 }
@@ -145,4 +148,19 @@ button{
   cursor: pointer;
   border-color: transparent;
   background-color: transparent;
+}
+i{
+  color: #ff69b4;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.x{
+  padding-left: 5px;
+  font-family: 'Cedarville Cursive', cursive;
+  color: #ff69b4;
+  text-align: left;
+  font-size: 7px;
+  background-color: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
