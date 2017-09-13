@@ -49,12 +49,14 @@ hr{
 
 }
 .ocean{
+  width: 55%;
   vertical-align: bottom;
   background-color: #f2e6d3;
   margin-left: 250px;
   padding-left:60px;
   padding-right: 42px;
   padding-bottom: 50px;
+
 }
 .about{
   font-family: 'Cedarville Cursive', cursive;
@@ -163,4 +165,143 @@ i{
   background-color: white;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
+}
+
+
+@media only screen and (max-width: 1237px) {
+      .ocean{
+         width:55.4% ;
+    }
+}
+@media only screen and (max-width: 1234px) {
+      .ocean{
+         width:55.3% ;
+    }
+}
+@media only screen and (max-width: 1231px) {
+      .ocean{
+         width:55.15% ;
+    }
+}
+@media only screen and (max-width: 1226px) {
+      .ocean{
+         width:55% ;
+    }
+}
+@media only screen and (max-width: 1213px) {
+      .ocean{
+         width:78% ;
+    }
+}
+
+@media only screen and (max-width: 1223px) {
+      .ocean{
+         width:54.9% ;
+    }
+}
+@media only screen and (max-width: 1213px) {
+      .ocean{
+         width:54.5% ;
+    }
+}
+@media only screen and (max-width: 1205px) {
+      .ocean{
+         width:54.2% ;
+    }
+}
+@media only screen and (max-width: 1202px) {
+      .ocean{
+         width:54.1% ;
+    }
+}
+@media only screen and (max-width: 1202px) {
+      .ocean{
+         width:54% ;
+    }
+}
+@media only screen and (max-width: 1195px) {
+      .ocean{
+         width:53.8% ;
+    }
+}
+@media only screen and (max-width: 1189px) {
+       .ocean{
+         width:53.55% ;
+    }
+}
+@media only screen and (max-width: 1177px) {
+       .ocean{
+         width:53.1% ;
+    }
+}
+@media only screen and (max-width: 1177px) {
+       .ocean{
+         width:52.9% ;
+    }
+}
+@media only screen and (max-width: 1173px) {
+       .ocean{
+         width:52.8% ;
+    }
+}
+@media only screen and (max-width: 1161px) {
+       .ocean{
+         width:52.45% ;
+    }
+}
+@media only screen and (max-width: 1161px) {
+       .ocean{
+         width:52.35% ;
+    }
+}
+@media only screen and (max-width: 1194px) {
+      .train{
+         margin-right: 25px;
+    }
+}
+@media only screen and (max-width: 1169px) {
+      .train{
+         margin-right: 20px;
+    }
+}
+@media only screen and (max-width: 1997px) {
+      .work{
+         font-size: 7px;
+    }
+}
+
+@media only screen and (max-width: 1193px) {
+      .one{
+      margin-left: 10px;
+    }
+}
+@media only screen and (max-width: 1173px) {
+      .one{
+      margin-left: 5px;
+    }
+}
+@media only screen and (max-width: 1161px) {
+      .one{
+      margin-left: 0px;
+    }
+}
+@media only screen and (max-width: 1161px) {
+      hr{
+      width: 50%;
+    }
+}
+@media only screen and (max-width: 1217px) {
+      .a{
+         margin-right: 250px;
+    }
+}
+@media only screen and (max-width: 1217px) {
+      .a{
+         margin-right: 220px;
+    }
+}
+@media only screen and (max-width: 1169px) {
+      .a{
+         margin-right: 200px;
+    }
 }
