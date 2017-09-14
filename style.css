@@ -13,23 +13,15 @@ nav{
 padding-top: 30px;
 padding-bottom: 30px;
 background-color: #f2e6d3;
-margin-left: 250px;
-margin-right: 200px;
+margin-left: 220px;
+margin-right: 260px;
 padding-left: 20px;
 padding-right: 40px;
 cursor: pointer;
 }
-ul{
-  background-color: #f2e6d3;
-  text-align: center;
 
-}
-ul li{
-  display: inline-block;
-  margin-left:20px;
-}
 .a{
-  margin-right: 270px;
+  margin-right: 130px;
   font-weight: bold;
 }
 
@@ -38,31 +30,48 @@ ul li{
   padding-top: 30px;
   text-align: center;
   padding-bottom: 40px;
-  margin-left: 250px;
-  margin-right: 200px;
+  margin-left: 220px;
+  margin-right: 260px;
 }
 hr{
   text-align: center;
   position: absolute;
   color: blue;
-  margin-left: 300px;
+  margin-left: 270px;
+  width:  45%;
 
+}
+ul li{
+  display: inline-block;
+  margin-left: 10px;
 }
 .ocean{
-  width: 55%;
+  width: 46.7%;
   vertical-align: bottom;
   background-color: #f2e6d3;
-  margin-left: 250px;
-  padding-left:60px;
-  padding-right: 42px;
+  margin-left: 220px;
+  padding-left:45px;
+  padding-right: 50px;
   padding-bottom: 50px;
-
+}
+.me{
+  background-color: white;
+  text-align: center;
+  padding-left: 0px;
+  margin-left: 220px;
+  margin-right: 260px;
 }
 .about{
-  font-family: 'Cedarville Cursive', cursive;
-  color: #ff69b4;
-  margin-right: 320px;
-  padding-bottom: 15px;
+  display: inline-block;
+  margin-left: 0px;
+  margin-right: 5px;
+  padding-right: 0;
+
+}
+.one{
+  color: black;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 p{
   font-size: 10px;
@@ -71,15 +80,6 @@ p{
 .me{
   font-family: 'Cedarville Cursive', cursive;
   color: #ff69b4;
-  margin-left: 50px;
-  margin-right: 20px;
-  padding-left: 200px;
-  padding-right: 180px;
-}
-.one{
-  color: black;
-  margin-left: 20px;
-  margin-right: 20px;
 }
 .my{
   padding-bottom: 15px;
@@ -90,11 +90,11 @@ p{
   padding-bottom: 30px;
 }
 .pic{
-  background-size: 130px 50px;
+  background-size: 90px 50px;
   background-color: #f2e6d3;
-  margin-left: 250px;
-  padding-left: 80px;
-  margin-right: 200px;
+  margin-left: 220px;
+  padding-left: 20px;
+  margin-right: 260px;
   padding-bottom: 20px;
 
 }
@@ -106,7 +106,7 @@ p{
 .train{
   border-bottom-right-radius: 10px;
   border-bottom-right-radius: 10px;
-  margin-right: 30px;
+  margin-right: 10px;
   text-align: center;
   vertical-align: center;
   display: inline-block;
@@ -126,15 +126,16 @@ p{
   text-align: center;
   padding-top: 40px;
   color:#ff69b4 ;
-  margin-right: 200px;
-  margin-left: 250px;
+  margin-right: 260px;
+  margin-left: 220px;
   padding-bottom: 30px;
 }
 footer{
   background-color: grey;
   padding-bottom: 20px;
-  margin-left: 250px;
-  margin-right: 200px;
+  margin-left: 220px;
+  margin-right: 260px;
+  padding-left: 10px;
 }
 .contact{
   font-family: 'Cedarville Cursive', cursive;
@@ -142,7 +143,7 @@ footer{
   padding-top: 20px;
 }
 input{
-  margin-right: 300px;
+  margin-right: 70px;
 margin-bottom: 10px;
 width: 375px;
 }
@@ -165,143 +166,4 @@ i{
   background-color: white;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-}
-
-
-@media only screen and (max-width: 1237px) {
-      .ocean{
-         width:55.4% ;
-    }
-}
-@media only screen and (max-width: 1234px) {
-      .ocean{
-         width:55.3% ;
-    }
-}
-@media only screen and (max-width: 1231px) {
-      .ocean{
-         width:55.15% ;
-    }
-}
-@media only screen and (max-width: 1226px) {
-      .ocean{
-         width:55% ;
-    }
-}
-@media only screen and (max-width: 1213px) {
-      .ocean{
-         width:78% ;
-    }
-}
-
-@media only screen and (max-width: 1223px) {
-      .ocean{
-         width:54.9% ;
-    }
-}
-@media only screen and (max-width: 1213px) {
-      .ocean{
-         width:54.5% ;
-    }
-}
-@media only screen and (max-width: 1205px) {
-      .ocean{
-         width:54.2% ;
-    }
-}
-@media only screen and (max-width: 1202px) {
-      .ocean{
-         width:54.1% ;
-    }
-}
-@media only screen and (max-width: 1202px) {
-      .ocean{
-         width:54% ;
-    }
-}
-@media only screen and (max-width: 1195px) {
-      .ocean{
-         width:53.8% ;
-    }
-}
-@media only screen and (max-width: 1189px) {
-       .ocean{
-         width:53.55% ;
-    }
-}
-@media only screen and (max-width: 1177px) {
-       .ocean{
-         width:53.1% ;
-    }
-}
-@media only screen and (max-width: 1177px) {
-       .ocean{
-         width:52.9% ;
-    }
-}
-@media only screen and (max-width: 1173px) {
-       .ocean{
-         width:52.8% ;
-    }
-}
-@media only screen and (max-width: 1161px) {
-       .ocean{
-         width:52.45% ;
-    }
-}
-@media only screen and (max-width: 1161px) {
-       .ocean{
-         width:52.35% ;
-    }
-}
-@media only screen and (max-width: 1194px) {
-      .train{
-         margin-right: 25px;
-    }
-}
-@media only screen and (max-width: 1169px) {
-      .train{
-         margin-right: 20px;
-    }
-}
-@media only screen and (max-width: 1997px) {
-      .work{
-         font-size: 7px;
-    }
-}
-
-@media only screen and (max-width: 1193px) {
-      .one{
-      margin-left: 10px;
-    }
-}
-@media only screen and (max-width: 1173px) {
-      .one{
-      margin-left: 5px;
-    }
-}
-@media only screen and (max-width: 1161px) {
-      .one{
-      margin-left: 0px;
-    }
-}
-@media only screen and (max-width: 1161px) {
-      hr{
-      width: 50%;
-    }
-}
-@media only screen and (max-width: 1217px) {
-      .a{
-         margin-right: 250px;
-    }
-}
-@media only screen and (max-width: 1217px) {
-      .a{
-         margin-right: 220px;
-    }
-}
-@media only screen and (max-width: 1169px) {
-      .a{
-         margin-right: 200px;
-    }
 }
