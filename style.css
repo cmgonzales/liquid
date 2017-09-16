@@ -173,6 +173,10 @@ i{
   float: left;
 
 }
+.icon{
+  float: right;
+  padding-right: 10px;
+}
 
 input{
 
