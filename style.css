@@ -2,10 +2,7 @@
   margin: 0;
   padding: 0;
 }
-span{
-  font-family: 'Cedarville Cursive', cursive;
-  color: #ff69b4;
-}
+
 
 .h{
 float: right;
@@ -24,16 +21,17 @@ margin: 0 auto;
 cursor: pointer;
 font-size: 12px;
 }
-
-.w{
-  float: left;
-  padding-left: 8px;
+span{
+  font-family: 'Cedarville Cursive', cursive;
+  color: #ff69b4;
+  vertical-align: top;
 }
 
 .a{
-float: left;
+
   font-weight: bold;
-  padding-left:0;
+  padding-left:8px;
+  vertical-align: top;
 }
 
 .head{
@@ -81,9 +79,9 @@ ul li{
   padding-left: 0px;
   margin: 0 auto;;
   width: 46.3%;
-background-color: #f2e6d3;
-    font-family: 'Cedarville Cursive', cursive;
-    color: #ff69b4;
+  background-color: #f2e6d3;
+  font-family: 'Cedarville Cursive', cursive;
+  color: #ff69b4;
 
 }
 .about{
@@ -172,8 +170,8 @@ footer{
   padding-top: 20px;
 }
 i{
-  float: right;
-  padding-right: 10px;
+  float: left;
+
 }
 
 input{
